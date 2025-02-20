@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\GenericsDemo\GenericsDemo\bin\Debug\net9.0\GenericsDemo.exe
+C:\Users\Admin\Desktop\GenericsDemo\GenericsDemo\bin\Debug\net9.0\GenericsDemo.deps.json
+C:\Users\Admin\Desktop\GenericsDemo\GenericsDemo\bin\Debug\net9.0\GenericsDemo.runtimeconfig.json
+C:\Users\Admin\Desktop\GenericsDemo\GenericsDemo\bin\Debug\net9.0\GenericsDemo.dll
+C:\Users\Admin\Desktop\GenericsDemo\GenericsDemo\bin\Debug\net9.0\GenericsDemo.pdb
+C:\Users\Admin\Desktop\GenericsDemo\GenericsDemo\obj\Debug\net9.0\GenericsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GenericsDemo\GenericsDemo\obj\Debug\net9.0\GenericsDemo.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GenericsDemo\GenericsDemo\obj\Debug\net9.0\GenericsDemo.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GenericsDemo\GenericsDemo\obj\Debug\net9.0\GenericsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GenericsDemo\GenericsDemo\obj\Debug\net9.0\GenericsDemo.dll
+C:\Users\Admin\Desktop\GenericsDemo\GenericsDemo\obj\Debug\net9.0\refint\GenericsDemo.dll
+C:\Users\Admin\Desktop\GenericsDemo\GenericsDemo\obj\Debug\net9.0\GenericsDemo.pdb
+C:\Users\Admin\Desktop\GenericsDemo\GenericsDemo\obj\Debug\net9.0\GenericsDemo.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GenericsDemo\GenericsDemo\obj\Debug\net9.0\ref\GenericsDemo.dll
