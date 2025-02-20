@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\LinqDemo\LinqDemo\bin\Debug\net9.0\LinqDemo.exe
+C:\Users\Admin\Desktop\LinqDemo\LinqDemo\bin\Debug\net9.0\LinqDemo.deps.json
+C:\Users\Admin\Desktop\LinqDemo\LinqDemo\bin\Debug\net9.0\LinqDemo.runtimeconfig.json
+C:\Users\Admin\Desktop\LinqDemo\LinqDemo\bin\Debug\net9.0\LinqDemo.dll
+C:\Users\Admin\Desktop\LinqDemo\LinqDemo\bin\Debug\net9.0\LinqDemo.pdb
+C:\Users\Admin\Desktop\LinqDemo\LinqDemo\obj\Debug\net9.0\LinqDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\LinqDemo\LinqDemo\obj\Debug\net9.0\LinqDemo.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\LinqDemo\LinqDemo\obj\Debug\net9.0\LinqDemo.AssemblyInfo.cs
+C:\Users\Admin\Desktop\LinqDemo\LinqDemo\obj\Debug\net9.0\LinqDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\LinqDemo\LinqDemo\obj\Debug\net9.0\LinqDemo.dll
+C:\Users\Admin\Desktop\LinqDemo\LinqDemo\obj\Debug\net9.0\refint\LinqDemo.dll
+C:\Users\Admin\Desktop\LinqDemo\LinqDemo\obj\Debug\net9.0\LinqDemo.pdb
+C:\Users\Admin\Desktop\LinqDemo\LinqDemo\obj\Debug\net9.0\LinqDemo.genruntimeconfig.cache
+C:\Users\Admin\Desktop\LinqDemo\LinqDemo\obj\Debug\net9.0\ref\LinqDemo.dll
