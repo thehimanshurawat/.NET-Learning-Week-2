@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\StaffMangementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CB2B4D-8A78-4F82-AB33-3C35BD80DAE6}|StaffMangementSystem\\StaffMangementSystem.csproj|c:\\users\\admin\\desktop\\staffmangementsystem\\staffmangementsystem\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CB2B4D-8A78-4F82-AB33-3C35BD80DAE6}|StaffMangementSystem\\StaffMangementSystem.csproj|solutionrelative:staffmangementsystem\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CB2B4D-8A78-4F82-AB33-3C35BD80DAE6}|StaffMangementSystem\\StaffMangementSystem.csproj|c:\\users\\admin\\desktop\\staffmangementsystem\\staffmangementsystem\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2CB2B4D-8A78-4F82-AB33-3C35BD80DAE6}|StaffMangementSystem\\StaffMangementSystem.csproj|solutionrelative:staffmangementsystem\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\StaffMangementSystem\\StaffMangementSystem\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "StaffMangementSystem\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\StaffMangementSystem\\StaffMangementSystem\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "StaffMangementSystem\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:49:41.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\StaffMangementSystem\\StaffMangementSystem\\Views\\Employees\\Delete.cshtml",
+              "RelativeDocumentMoniker": "StaffMangementSystem\\Views\\Employees\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\StaffMangementSystem\\StaffMangementSystem\\Views\\Employees\\Delete.cshtml",
+              "RelativeToolTip": "StaffMangementSystem\\Views\\Employees\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T07:10:28.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
