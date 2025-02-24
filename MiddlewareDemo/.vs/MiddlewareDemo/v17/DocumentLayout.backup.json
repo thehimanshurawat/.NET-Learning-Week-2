@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\MiddlewareDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B99DB72-2166-48A5-B18A-C3DE2C1F376A}|MiddlewareDemo\\MiddlewareDemo.csproj|c:\\users\\admin\\desktop\\middlewaredemo\\middlewaredemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B99DB72-2166-48A5-B18A-C3DE2C1F376A}|MiddlewareDemo\\MiddlewareDemo.csproj|solutionrelative:middlewaredemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B99DB72-2166-48A5-B18A-C3DE2C1F376A}|MiddlewareDemo\\MiddlewareDemo.csproj|c:\\users\\admin\\desktop\\middlewaredemo\\middlewaredemo\\filters\\loggingactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B99DB72-2166-48A5-B18A-C3DE2C1F376A}|MiddlewareDemo\\MiddlewareDemo.csproj|solutionrelative:middlewaredemo\\filters\\loggingactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B99DB72-2166-48A5-B18A-C3DE2C1F376A}|MiddlewareDemo\\MiddlewareDemo.csproj|c:\\users\\admin\\desktop\\middlewaredemo\\middlewaredemo\\middlewaredemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B99DB72-2166-48A5-B18A-C3DE2C1F376A}|MiddlewareDemo\\MiddlewareDemo.csproj|solutionrelative:middlewaredemo\\middlewaredemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B99DB72-2166-48A5-B18A-C3DE2C1F376A}|MiddlewareDemo\\MiddlewareDemo.csproj|c:\\users\\admin\\desktop\\middlewaredemo\\middlewaredemo\\midddleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B99DB72-2166-48A5-B18A-C3DE2C1F376A}|MiddlewareDemo\\MiddlewareDemo.csproj|solutionrelative:middlewaredemo\\midddleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoggingActionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MiddlewareDemo\\MiddlewareDemo\\Filters\\LoggingActionFilter.cs",
+              "RelativeDocumentMoniker": "MiddlewareDemo\\Filters\\LoggingActionFilter.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MiddlewareDemo\\MiddlewareDemo\\Filters\\LoggingActionFilter.cs",
+              "RelativeToolTip": "MiddlewareDemo\\Filters\\LoggingActionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:02:08.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MiddlewareDemo",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MiddlewareDemo\\MiddlewareDemo\\MiddlewareDemo.csproj",
+              "RelativeDocumentMoniker": "MiddlewareDemo\\MiddlewareDemo.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MiddlewareDemo\\MiddlewareDemo\\MiddlewareDemo.csproj*",
+              "RelativeToolTip": "MiddlewareDemo\\MiddlewareDemo.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-24T06:59:47.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MiddlewareDemo\\MiddlewareDemo\\Program.cs",
+              "RelativeDocumentMoniker": "MiddlewareDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MiddlewareDemo\\MiddlewareDemo\\Program.cs*",
+              "RelativeToolTip": "MiddlewareDemo\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T06:49:49.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RequestLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MiddlewareDemo\\MiddlewareDemo\\Midddleware\\RequestLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "MiddlewareDemo\\Midddleware\\RequestLoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MiddlewareDemo\\MiddlewareDemo\\Midddleware\\RequestLoggingMiddleware.cs",
+              "RelativeToolTip": "MiddlewareDemo\\Midddleware\\RequestLoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T06:49:22.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
