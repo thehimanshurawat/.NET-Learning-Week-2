@@ -1,0 +1,6 @@
+SELECT TOP (100) [Id]
+      ,[Name]
+      ,[Position]
+      ,[Department]
+      ,[Salary]
+  FROM [EmployeeDB].[dbo].[Employees]
