@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\StudentManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD0C64A-8D72-4B4D-BBAB-CCD96F071617}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\users\\admin\\desktop\\studentmanagementapi\\studentmanagementapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD0C64A-8D72-4B4D-BBAB-CCD96F071617}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD0C64A-8D72-4B4D-BBAB-CCD96F071617}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\users\\admin\\desktop\\studentmanagementapi\\studentmanagementapi\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD0C64A-8D72-4B4D-BBAB-CCD96F071617}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD0C64A-8D72-4B4D-BBAB-CCD96F071617}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\users\\admin\\desktop\\studentmanagementapi\\studentmanagementapi\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD0C64A-8D72-4B4D-BBAB-CCD96F071617}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD0C64A-8D72-4B4D-BBAB-CCD96F071617}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\users\\admin\\desktop\\studentmanagementapi\\studentmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD0C64A-8D72-4B4D-BBAB-CCD96F071617}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC52935-EE7C-4024-B6E7-5EE176E06B20}|StudentManagementTests\\StudentManagementTests.csproj|c:\\users\\admin\\desktop\\studentmanagementapi\\studentmanagementtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC52935-EE7C-4024-B6E7-5EE176E06B20}|StudentManagementTests\\StudentManagementTests.csproj|solutionrelative:studentmanagementtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC52935-EE7C-4024-B6E7-5EE176E06B20}|StudentManagementTests\\StudentManagementTests.csproj|c:\\users\\admin\\desktop\\studentmanagementapi\\studentmanagementtests\\studentintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC52935-EE7C-4024-B6E7-5EE176E06B20}|StudentManagementTests\\StudentManagementTests.csproj|solutionrelative:studentmanagementtests\\studentintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC52935-EE7C-4024-B6E7-5EE176E06B20}|StudentManagementTests\\StudentManagementTests.csproj|c:\\users\\admin\\desktop\\studentmanagementapi\\studentmanagementtests\\studentcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC52935-EE7C-4024-B6E7-5EE176E06B20}|StudentManagementTests\\StudentManagementTests.csproj|solutionrelative:studentmanagementtests\\studentcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD0C64A-8D72-4B4D-BBAB-CCD96F071617}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\users\\admin\\desktop\\studentmanagementapi\\studentmanagementapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD0C64A-8D72-4B4D-BBAB-CCD96F071617}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentIntegrationTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\StudentManagementAPI\\StudentManagementTests\\StudentIntegrationTests.cs",
+              "RelativeDocumentMoniker": "StudentManagementTests\\StudentIntegrationTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\StudentManagementAPI\\StudentManagementTests\\StudentIntegrationTests.cs",
+              "RelativeToolTip": "StudentManagementTests\\StudentIntegrationTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T04:57:30.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\StudentManagementAPI\\StudentManagementTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "StudentManagementTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\StudentManagementAPI\\StudentManagementTests\\UnitTest1.cs",
+              "RelativeToolTip": "StudentManagementTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T04:55:15.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\StudentManagementAPI\\StudentManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\StudentManagementAPI\\StudentManagementAPI\\Program.cs",
+              "RelativeToolTip": "StudentManagementAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T04:54:02.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\StudentManagementAPI\\StudentManagementAPI\\Repository\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\Repository\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\StudentManagementAPI\\StudentManagementAPI\\Repository\\IStudentRepository.cs",
+              "RelativeToolTip": "StudentManagementAPI\\Repository\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T04:52:26.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\StudentManagementAPI\\StudentManagementAPI\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\Repository\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\StudentManagementAPI\\StudentManagementAPI\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "StudentManagementAPI\\Repository\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T04:53:08.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\StudentManagementAPI\\StudentManagementAPI\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\StudentManagementAPI\\StudentManagementAPI\\Models\\Student.cs",
+              "RelativeToolTip": "StudentManagementAPI\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T04:51:14.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\StudentManagementAPI\\StudentManagementTests\\StudentControllerTests.cs",
+              "RelativeDocumentMoniker": "StudentManagementTests\\StudentControllerTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\StudentManagementAPI\\StudentManagementTests\\StudentControllerTests.cs",
+              "RelativeToolTip": "StudentManagementTests\\StudentControllerTests.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T04:56:58.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\StudentManagementAPI\\StudentManagementAPI\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\StudentManagementAPI\\StudentManagementAPI\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentManagementAPI\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAADwvzoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T04:53:48.505Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
